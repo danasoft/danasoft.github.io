@@ -1,3 +1,4 @@
 name: Ottmar at Danasoft
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: minima
