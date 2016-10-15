@@ -3,6 +3,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: minima
 <<<<<<< HEAD
+<<<<<<< HEAD
 gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets, jekyll-admin]
 =======
 markdown: kramdown
@@ -42,4 +43,6 @@ gems:
 exclude:
   - README.md
 - .gitignore
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
