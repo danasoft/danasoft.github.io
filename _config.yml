@@ -2,3 +2,4 @@ name: Ottmar at Danasoft
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: minima
+gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets, jekyll-admin]
